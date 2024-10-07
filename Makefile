@@ -2,7 +2,7 @@
 
 NAME = Tic-Tac-Toe
 
-SRCS = morpion.c 
+SRCS = morpion.c joueur.c robot.c condition.c 
 
 all :  $(NAME)
 
